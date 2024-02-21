@@ -184,7 +184,7 @@
 
     #menu {
         position: fixed;
-        top: -50px;
+        top: -60px;
         left: 50%;
         transform: translateX(-50%);
         z-index: 1000;
@@ -192,7 +192,7 @@
     }
 
     #menu.show {
-        top: 10px;
+        top: 25px;
     }
 
    #menu a {
